@@ -1,13 +1,33 @@
-# Hi, I’m Sai Nanda Gopal
+# Sai Nanda Gopal
 
-I study Chemical Engineering at IIT (BHU), Varanasi. I build full-stack applications and like digging into what happens behind the UI, from indexing contacts to judging C++ submissions.
+**Chemical Engineering undergraduate · IIT (BHU), Varanasi**
 
-### Projects
+I build full-stack apps. The parts I enjoy most are figuring out how to model the data, what belongs in the API, and how to get the whole thing running outside my laptop.
 
-| Project | What I worked on |
-| --- | --- |
-| [AlgoVed](https://github.com/nanda2708/AlgoVed) | An online C++ judge with contests and collaborative rooms. I deployed it on EC2 with Docker Compose and configured Nginx to route HTTP and Socket.IO traffic. |
-| [Gradely](https://github.com/nanda2708/Gradely) | A classroom app for assignments, PDF submissions, and grading. The workflow covers faculty, teaching assistants, and students. |
-| [Trie Connect](https://github.com/nanda2708/Trie-Connect) | A contact search app with a C++ trie for prefix matching and autocomplete, backed by MongoDB for persistence. |
+[**Portfolio**](https://nanda2708.github.io/)
 
-[Portfolio](https://nanda2708.github.io/)
+---
+
+## Selected projects
+
+### [AlgoVed](https://github.com/nanda2708/AlgoVed)
+
+An online C++ judge with practice contests and collaborative coding rooms. I deployed it on EC2 with Docker Compose and set up Nginx to route API and Socket.IO traffic.
+
+[Deployment walkthrough](https://github.com/nanda2708/AlgoVed/blob/main/DEPLOYMENT.md) · `Next.js` `Express` `Socket.IO` `Docker`
+
+### [Gradely](https://github.com/nanda2708/Gradely)
+
+A classroom app that takes an assignment from publication to PDF submission, grading, and feedback. Faculty, teaching assistants, and students each have their own permissions.
+
+`React` `Express` `Firebase Auth` `MongoDB`
+
+### [Trie Connect](https://github.com/nanda2708/Trie-Connect)
+
+A contact search app with a C++ trie behind an Express API. Search by name or phone prefix and see which nodes your query visits. MongoDB stores the contact records.
+
+[Try Trie Connect](https://trie-connect-frontend.vercel.app/) · `C++17` `TypeScript` `React`
+
+---
+
+**I work with** C++, Python, and JavaScript/TypeScript.
